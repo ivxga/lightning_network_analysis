@@ -1,3 +1,4 @@
 *
 !.gitignore
 !bitcoin.conf
+!dump.sh
