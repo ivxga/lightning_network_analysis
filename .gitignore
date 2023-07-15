@@ -1,3 +1,8 @@
+# Directories
+
+latex/
 output/
 __pycache__/
+
+# Files
 TODO
